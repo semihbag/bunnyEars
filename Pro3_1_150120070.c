@@ -1,7 +1,7 @@
-// ID = 150120070
 // Name = Semih
-// Surname = Bað
+// Surname = BaÄŸ
 // Purpose = Calculate the sum of bunny ears
+
 #include <stdio.h>
 
 int sum; 
